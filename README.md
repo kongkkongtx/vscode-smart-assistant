@@ -2,6 +2,10 @@
 
 基于React框架的VS Code插件，集成多种AI模型（包括DeepSeek、OpenAI、Anthropic等），提供智能对话功能。
 
+## 功能演示
+插件功能演示：
+！[插件功能演示](演示视频.gif)
+
 ## 项目结构
 
 ```
